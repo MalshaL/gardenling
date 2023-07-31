@@ -1,4 +1,4 @@
-# gardenling
+# Gardenling
 
 Gardenling helps you to design your garden using augmented reality, whether you are a homeowner or a contractor. 
 
